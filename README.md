@@ -2,8 +2,6 @@
 
 dibuat dengan menggunakan html, css dan javascript. program ini berguna untuk menampilkan jumlah biaya total dari barang yang mau dibeli atau sudah dibeli.
 
-kode sudah saya sertakan dengan komentar supaya kalian para programmer pemula bisa mempelajarinya.
-
 ## dibuat dengan berikut
 
 * html
